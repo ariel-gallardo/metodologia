@@ -11,6 +11,9 @@
    Tener instalado git, git-gui.           /*
   
   /*Ejecutar la Terminal de linux
+  en el caso de ubuntu:
+  sudo apt-get install openjdk-8-jdk-headless
+  sudo apt-get install openjdk-8-jre-headless 
   Ejecutar los siguiente comando: /*
   
   /* 
