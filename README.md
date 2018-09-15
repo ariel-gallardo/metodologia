@@ -29,10 +29,7 @@
   
       git clone https://github.com/ariel-gallardo/metodologia-final.git  //Clonar el proyecto en una carpeta
       
-      cd metodologia-final
-      cd src
-      cd juego
-      
+      cd metodologia-final/src/juego
       javac Main.java //Compila el Proyecto con Java
       java Main       //Ejecuta el Proyecto
   
